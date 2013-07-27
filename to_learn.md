@@ -1,5 +1,6 @@
 Things we are learning at SWC
 =============================
+27 July 2:27pm
 
 * shell
 ** ls
