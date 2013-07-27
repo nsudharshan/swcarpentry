@@ -1,6 +1,6 @@
 Things we are learning at SWC
 =============================
-2013-07-27
+2013-07-27 14:28
 
 * shell
 ** ls
