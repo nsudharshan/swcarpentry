@@ -1,6 +1,7 @@
 Things we are learning at SWC
 =============================
 27 July 2:30pm
+2014 # wrong date
 
 * shell
 ** ls
