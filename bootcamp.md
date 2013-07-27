@@ -1,7 +1,10 @@
 * shell
 ** ls
-** cd
+** cat
+** pipe
 
 *git
 ** initialize repo
 ** add file
+** commit messages
+** atomic commits
