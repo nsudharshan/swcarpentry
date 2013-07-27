@@ -1,3 +1,6 @@
+Things we're learning at SWC
+============================
+
 * shell
 ** ls
 ** cat
